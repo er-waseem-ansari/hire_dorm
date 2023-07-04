@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635939585363",
+    "project_id": "hiredorm-5d045",
+    "storage_bucket": "hiredorm-5d045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635939585363:android:897ef022200c545bf435a6",
+        "android_client_info": {
+          "package_name": "com.example.hire_dorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635939585363-8ukuotu99n3a5kv7pnu06s3lkf08fr24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKkij9snOpk2-7IjyVjvM8-jmMl3WrkdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635939585363-8ukuotu99n3a5kv7pnu06s3lkf08fr24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
